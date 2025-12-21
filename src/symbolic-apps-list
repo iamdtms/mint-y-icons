@@ -94,6 +94,7 @@ androidstudio.png <- android-studio.png
 androidstudio.png <- com.google.AndroidStudio.png
 anki.png <- net.ankiweb.Anki.png
 anydesk.png <- com.anydesk.Anydesk.png
+apache.png <- jmeter.png
 app-launcher.png <- gnome-panel-launcher.png
 archive-manager.png <- 7z.png
 archive-manager.png <- 7zip.png
@@ -416,6 +417,7 @@ gnomines.png <- org.gnome.Mines.png
 gnotski.png <- gnome-klotski.png
 gnu-r.png <- Rlogo.png
 gnu-r.png <- rlogo_icon.png
+gnucash.png <- gnucash-icon.png
 gnucash.png <- org.gnucash.GnuCash.png
 gnumeric.png <- org.gnumeric.Gnumeric.png
 gnupg.png <- gcr-gnupg.png
@@ -637,6 +639,7 @@ minecraft.png <- minecraft-launcher.png
 minitube.png <- org.tordini.flavio.Minitube.png
 mintdrivers.png <- jockey-gtk.png
 mintdrivers.png <- jockey.png
+gitg.png <- mintgit.png
 miro.png <- miro-72x72.png
 miro.png <- miro-browse.png
 miro.png <- miro-guide-source.png
@@ -711,6 +714,8 @@ octave.png <- qoctave.png
 octave.png <- qtoctave.png
 okteta.png <- org.kde.okteta.png
 okular.png <- org.kde.okular.png
+onlyoffice.png <- org.onlyoffice.desktopeditors.png
+onlyoffice.png <- onlyoffice-desktopeditors.png
 openshot.png <- org.openshot.OpenShot.png
 openspades.png <- jp.yvt.OpenSpades.png
 openttd.png <- steam_icon_1536610.png
@@ -1025,8 +1030,7 @@ team-fortress-2.png <- steam_icon_440.png
 teamspeak.png <- com.teamspeak.TeamSpeak.png
 teamspeak.png <- teamspeak3.png
 teamspeak.png <- ts3client_linux_amd64.png
-terminal.png <- br.app.pw3270.terminal.png
-terminal.png <- io.github.tofudd.lanchat.terminal.png
+tenacity.png <- org.tenacityaudio.Tenacity.png
 texmaker.png <- net.xm1math.Texmaker.png
 texstudio.png <- TeXmacs.png
 texstudio.png <- kbibtex.png
@@ -1070,6 +1074,7 @@ utilities-system-monitor.png <- ksysguard.png
 utilities-system-monitor.png <- org.gnome.SystemMonitor.png
 utilities-system-monitor.png <- preferences-system-performance.png
 utilities-system-monitor.png <- ro.fxdata.taskmonitor.viewer.png
+utilities-terminal.png <- br.app.pw3270.terminal.png
 utilities-terminal.png <- Etermutilities-terminal.png
 utilities-terminal.png <- Terminal.png
 utilities-terminal.png <- bash.png
@@ -1078,6 +1083,7 @@ utilities-terminal.png <- deepin-terminal.png
 utilities-terminal.png <- gnome-eterm.png
 utilities-terminal.png <- gnome-terminal.png
 utilities-terminal.png <- gnome-xterm.png
+utilities-terminal.png <- io.github.tofudd.lanchat.terminal.png
 utilities-terminal.png <- konsole.png
 utilities-terminal.png <- lxterminal.png
 utilities-terminal.png <- openterm.png
@@ -1102,6 +1108,7 @@ virtman.png <- virt-manager.png
 virtualbox.png <- VBox.png
 virtualbox.png <- virtualbox-ose.png
 visual-studio-code.png <- com.visualstudio.code.insiders.png
+visual-studio-code.png <- com.visualstudio.code.oss.png
 visual-studio-code.png <- com.visualstudio.code.png
 visual-studio-code.png <- vscode.png
 vivaldi.png <- com.vivaldi.Vivaldi.png
@@ -1334,6 +1341,9 @@ web-spotify.png <- spotify-client.png
 web-spotify.png <- spotify-exe.png
 web-spotify.png <- spotify-linux-48x48.png
 web-spotify.png <- spotify.png
+web-teams.png <- Teams-teams.live.com.png
+web-teams.png <- Teams-teams.microsoft.com.png
+web-teams.png <- teams.png
 web-telegram.png <- chrome-clhhggbfdinjmjhajaheehoeibfljjno-Default.png
 web-telegram.png <- org.telegram.desktop.png
 web-telegram.png <- telegram.png
